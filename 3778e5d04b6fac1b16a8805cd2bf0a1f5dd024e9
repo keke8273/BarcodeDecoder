@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "cdaab2c0_f6d3cb91",
+        "filename": "file_one.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2019-02-24T07:12:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1498c2e8_f194d97d",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 17
+      },
+      "revId": "3778e5d04b6fac1b16a8805cd2bf0a1f5dd024e9",
+      "serverId": "ed1d026a-75e5-4761-beac-b43c587ffc87",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "d2cdf89e_4ace2ebd",
         "filename": "file_two.cpp",
         "patchSetId": 1
@@ -36,6 +60,30 @@
       "writtenOn": "2019-02-24T07:08:28Z",
       "side": 1,
       "message": "save here",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 17
+      },
+      "revId": "3778e5d04b6fac1b16a8805cd2bf0a1f5dd024e9",
+      "serverId": "ed1d026a-75e5-4761-beac-b43c587ffc87",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "84481288_23bb10bf",
+        "filename": "file_two.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2019-02-24T07:12:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d2cdf89e_4ace2ebd",
       "range": {
         "startLine": 6,
         "startChar": 0,
